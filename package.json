@@ -12,7 +12,7 @@
   "description": "Gabarit CRA adapté pour l'enseignement en français.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cdem/create-react-app-cdem-fr.git"
+    "url": "git+https://github.com/cdem/create-react-app-cdem-fr.git"
   },
   "license": "MIT",
   "engines": {
@@ -21,5 +21,14 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/cdem/create-react-app-cdem-fr/issues"
+  },
+  "homepage": "https://github.com/cdem/create-react-app-cdem-fr#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camille Semaan"
 }
