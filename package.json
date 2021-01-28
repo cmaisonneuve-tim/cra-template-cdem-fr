@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-cdem-fr",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "cdem",
+    "maisonneuve",
+    "fr"
+  ],
+  "description": "Gabarit CRA adapté pour l'enseignement en français.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdem/create-react-app-cdem-fr.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
