@@ -1,3 +1,3 @@
-# Petite présentation de l'application
+# Titre du site Web ou application
 
-Un court texte présentant votre site Web.
+Court texte présentant votre site Web/application.
