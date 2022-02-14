@@ -1,15 +1,16 @@
 {
   "name": "cra-template-cdem-fr",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "cdem",
     "maisonneuve",
-    "fr"
+    "fr",
+    "TIM"
   ],
-  "description": "Gabarit CRA adapté pour l'enseignement en français.",
+  "description": "Gabarit CRA adapté pour TIM/Maisonneuve.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cdem/create-react-app-cdem-fr.git"

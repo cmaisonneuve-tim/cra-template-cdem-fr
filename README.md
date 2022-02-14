@@ -8,4 +8,4 @@ Ce gabarit simplifie un peu le gabarit par défaut de CRA, et ajoute les dépend
 - node-sass
 
 ## Pour utiliser ce gabarit
-> npx create-react-app *nom-appli* --template cdem-fr
+> npx create-react-app *nom-de-votre-appli-et-dossier* --template cdem-fr
