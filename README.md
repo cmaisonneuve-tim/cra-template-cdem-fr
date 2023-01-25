@@ -10,4 +10,4 @@ Ce gabarit simplifie un peu le gabarit par défaut de CRA, et ajoute les dépend
 ## Pour utiliser ce gabarit
 > npx create-react-app *nom-de-votre-appli-et-dossier* --template cdem-fr
 
-### Juin 2022 (React 18)
+### Janvier 2023 (React 18.2.0)
